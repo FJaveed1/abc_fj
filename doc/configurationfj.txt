@@ -1,0 +1,2 @@
+This is the file which is used for the configuration details in the project used in the git .
+This file is used for adding the data and then adding it to the git and them importing from the local dir to the remote repo.
